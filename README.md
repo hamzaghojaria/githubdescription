@@ -33,22 +33,19 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 - **DeepLearning.AI:** LangChain for LLM Application Development
 
 ## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaghojaria)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.ghojaria123@gmail.com)
 
 
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaghojaria&show_icons=true&theme=radical)
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzaghojaria&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaghojaria&layout=compact&theme=tokyonight)
 
 
-[![Hamza's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaghojaria&theme=github_dark)](https://github.com/hamzaghojaria)
+<!-- [![Hamza's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaghojaria&theme=github_dark)](https://github.com/hamzaghojaria) -->
 
 
 ---
