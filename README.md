@@ -32,13 +32,12 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 - **IBM:** WatsonX Foundations
 - **DeepLearning.AI:** LangChain for LLM Application Development
 
-## 📫 Connect with Me
+## 📫 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.ghojaria123@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaghojaria)
 
-
-
+## 📊 Other Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaghojaria&layout=compact&theme=tokyonight)
 
