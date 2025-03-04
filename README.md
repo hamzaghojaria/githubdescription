@@ -5,7 +5,9 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 
 📄 **[⬇️ Download My Resume](https://github.com/hamzaghojaria/hamzaghojaria/raw/main/Hamza%20Ghojaria%20Resume.pdf)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamzaghojaria&color=blue)
+## 🔥 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=hamzaghojaria&color=blue&style=for-the-badge)
+
 
 ## 🎓 Education:
 - **Masters of Technology in Computer Engineering** - Sardar Patel Institute Of Technology, Mumbai University (May 2020 - May 2022)
