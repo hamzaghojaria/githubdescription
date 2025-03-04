@@ -5,12 +5,12 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 
 📄 **[⬇️ Download My Resume](https://github.com/hamzaghojaria/hamzaghojaria/raw/main/Hamza%20Ghojaria%20Resume.pdf)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamzaghojaria&color=blue&style=for-the-badge)
+## ![Profile Views](https://komarev.com/ghpvc/?username=hamzaghojaria&color=blue&style=for-the-badge)
 
 ## 🚀 Tech Stack:
-- **Programming & AI:** Python, Machine Learning, NLP, Deep Learning, Generative AI, REST APIs (Flask, FastAPI)
-- **Software & Tools:** Visual Studio Code, Jupyter Notebook, PyCharm, Anaconda, MSSQL, Tableau, Power BI
-- **Cloud Platforms:** Azure (Containers, Blob, Document Intelligence), Google Cloud Platform (GCP)
+- ### Programming & AI: Python, Machine Learning, NLP, Deep Learning, Generative AI, REST APIs (Flask, FastAPI)
+- ### Software & Tools: Visual Studio Code, Jupyter Notebook, PyCharm, Anaconda, MSSQL, Tableau, Power BI
+- ### Cloud Platforms: Azure (Containers, Blob, Document Intelligence), Google Cloud Platform (GCP)
 
 ## 💼 Work Experience:
 - ### LTIMindtree - Data Scientist - (Mar 2024 - Present)
