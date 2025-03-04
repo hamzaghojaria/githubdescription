@@ -40,7 +40,8 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaghojaria&show_icons=true&theme=radical)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaghojaria&theme=highcontrast)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzaghojaria&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
