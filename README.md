@@ -8,7 +8,7 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=hamzaghojaria&color=blue&style=for-the-badge)
 
 ## 🚀 Tech Stack:
-- ### Programming & AI: Python, Machine Learning, NLP, Deep Learning, Generative AI, REST APIs (Flask, FastAPI)
+- #### Programming & AI: Python, Machine Learning, NLP, Deep Learning, Generative AI, REST APIs (Flask, FastAPI)
 - ### Software & Tools: Visual Studio Code, Jupyter Notebook, PyCharm, Anaconda, MSSQL, Tableau, Power BI
 - ### Cloud Platforms: Azure (Containers, Blob, Document Intelligence), Google Cloud Platform (GCP)
 
