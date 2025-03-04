@@ -15,12 +15,9 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 ## 💼 Work Experience:
 - ### LTIMindtree - Data Scientist - (Mar 2024 - Present)
 - ### Hansa Cequity - Associate Data Science & AI - (May 2022 - Mar 2024)
-
-### ** CRISIL - Data Science Intern** *(Dec 2021 - Apr 2022)*
-
-### ** Media.net - Associate Software Test Engineer** *(Mar 2019 - Mar 2021)*
-
-### ** Alphacentrix(Fascet LLC) - Team Member QA & Support** *(Jun 2018 - Feb 2019)*
+- ### CRISIL - Data Science Intern - (Dec 2021 - Apr 2022)
+- ### Media.net - Associate Software Test Engineer - (Mar 2019 - Mar 2021)
+- ### Alphacentrix(Fascet LLC) - Team Member QA & Support - (Jun 2018 - Feb 2019)
 
 ## 🎓 Education:
 - ### **Masters of Technology in Computer Engineering** - Sardar Patel Institute Of Technology, Mumbai University (May 2020 - May 2022)
@@ -42,13 +39,7 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaghojaria&show_icons=true&theme=radical)
 
-
-
-
-
 <!-- [![Hamza's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaghojaria&theme=github_dark)](https://github.com/hamzaghojaria) -->
-
-
 ---
 ⚡ *Passionate about building AI-driven solutions and solving real-world problems with data!*
 
