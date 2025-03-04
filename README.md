@@ -24,7 +24,7 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 ### **5. Alphacentrix(Fascet LLC) - Team Member QA & Support** *(Jun 2018 - Feb 2019)*
 
 ## 🎓 Education:
-###- **Masters of Technology in Computer Engineering** - Sardar Patel Institute Of Technology, Mumbai University (May 2020 - May 2022)
+### **Masters of Technology in Computer Engineering** - Sardar Patel Institute Of Technology, Mumbai University (May 2020 - May 2022)
   
 ## 📜 Certifications:
 - **Google Cloud:** Introduction to Generative AI, Large Language Models, Text Prompt Engineering
