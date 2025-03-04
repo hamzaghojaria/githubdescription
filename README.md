@@ -3,7 +3,7 @@
 ## 🚀 About Me:
 I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, SQL, and Cloud Technologies. With over **5 years in IT** and **3+ years specializing in Data Science**, I've worked on various AI-driven solutions, including recommendation systems, document comparison engines, and predictive models.
 
-📄 **[⬇️ Download My Resume](https://github.com/hamzaghojaria/hamzaghojaria/raw/main/Hamza%20Ghojaria%20Resume.pdf)**
+📄 #### [⬇️ Download My Resume](https://github.com/hamzaghojaria/hamzaghojaria/raw/main/Hamza%20Ghojaria%20Resume.pdf)**
 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=hamzaghojaria&color=blue&style=for-the-badge)
 
@@ -14,13 +14,13 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 
 ## 💼 Work Experience:
 - #### LTIMindtree - Data Scientist - (Mar 2024 - Present)
-- ### Hansa Cequity - Associate Data Science & AI - (May 2022 - Mar 2024)
-- ### CRISIL - Data Science Intern - (Dec 2021 - Apr 2022)
-- ### Media.net - Associate Software Test Engineer - (Mar 2019 - Mar 2021)
-- ### Alphacentrix(Fascet LLC) - Team Member QA & Support - (Jun 2018 - Feb 2019)
+- #### Hansa Cequity - Associate Data Science & AI - (May 2022 - Mar 2024)
+- #### CRISIL - Data Science Intern - (Dec 2021 - Apr 2022)
+- #### Media.net - Associate Software Test Engineer - (Mar 2019 - Mar 2021)
+- #### Alphacentrix(Fascet LLC) - Team Member QA & Support - (Jun 2018 - Feb 2019)
 
 ## 🎓 Education:
-- ### **Masters of Technology in Computer Engineering** - Sardar Patel Institute Of Technology, Mumbai University (May 2020 - May 2022)
+- #### **Masters of Technology in Computer Engineering** - Sardar Patel Institute Of Technology, Mumbai University (May 2020 - May 2022)
   
 ## 📜 Certifications:
 - #### Google Cloud: Introduction to Generative AI, Large Language Models, Text Prompt Engineering
