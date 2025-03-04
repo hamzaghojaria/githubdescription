@@ -13,7 +13,7 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 - #### Cloud Platforms: Azure (Containers, Blob, Document Intelligence), Google Cloud Platform (GCP)
 
 ## 💼 Work Experience:
-- ### LTIMindtree - Data Scientist - (Mar 2024 - Present)
+- #### LTIMindtree - Data Scientist - (Mar 2024 - Present)
 - ### Hansa Cequity - Associate Data Science & AI - (May 2022 - Mar 2024)
 - ### CRISIL - Data Science Intern - (Dec 2021 - Apr 2022)
 - ### Media.net - Associate Software Test Engineer - (Mar 2019 - Mar 2021)
