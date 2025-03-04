@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, SQL, and Cloud Technologies. With over **5 years in IT** and **3+ years specializing in Data Science**, I've worked on various AI-driven solutions, including recommendation systems, document comparison engines, and predictive models.
 
-📄 [Resume Link](https://github.com/hamzaghojaria/hamzaghojaria/blob/369c9c9089c2efdf3183ffdced38bb8e5ed7f2a3/raw/main/Hamza%20Ghojaria%20Resume.pdf)
+[Download My Resume](https://github.com/hamzaghojaria/hamzaghojaria/raw/main/Hamza%20Ghojaria%20Resume.pdf)
 ## 🎓 Education
 - **Masters of Technology in Computer Engineering** - Sardar Patel Institute Of Technology, Mumbai University (May 2020 - May 2022)
 
