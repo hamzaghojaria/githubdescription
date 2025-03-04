@@ -35,4 +35,7 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 
 ![Profile Views](https://img.shields.io/github/views/hamzaghojaria/hamzaghojaria?label=Profile%20Views&color=blue&style=plastic)
 
+![Profile Views](https://komarev.com/ghpvc/?username=hamzaghojaria&color=blue)
+
+
 
