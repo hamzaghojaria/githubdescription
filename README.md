@@ -33,3 +33,6 @@ I'm a Data Scientist with expertise in Python, Generative AI, Machine Learning, 
 ---
 ⚡ *Passionate about building AI-driven solutions and solving real-world problems with data!*
 
+![Profile Views](https://img.shields.io/github/views/hamzaghojaria/hamzaghojaria?label=Profile%20Views&color=blue&style=plastic)
+
+
